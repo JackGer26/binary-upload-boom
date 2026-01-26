@@ -4,7 +4,7 @@ A full-stack social media application where users can share images, create posts
 
 ## 🌐 Live Demo
 
-**[Add your live demo link here](https://binary-upload-boom-d56c.onrender.com)**
+**[https://binary-upload-boom-d56c.onrender.com]**
 
 ## 🌐 Features
 
