@@ -216,3 +216,9 @@ This project is licensed under the MIT License.
 ---
 
 **Built with ❤️ as part of 100Devs**
+
+## 🔗 Examples of Other Work
+
+- **[Portfolio Website](https://github.com/JackGer26/portfolio)** - Modern React portfolio showcasing all projects
+- **[100Jobs React Board](https://github.com/JackGer26/100Jobs)** - React SPA with full CRUD functionality  
+- **[Green Cars Airport Transfers](https://github.com/JackGer26/Green-Cars-Airport-Transfers)** - Professional business website with Email.js integration
