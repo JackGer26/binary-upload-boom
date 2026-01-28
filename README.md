@@ -6,6 +6,10 @@ A full-stack social media application where users can share images, create posts
 
 **[https://binary-upload-boom-d56c.onrender.com]**
 
+## 📸 Preview
+
+![Binary Upload Boom Screenshot](./public/imgs/app-screenshot.png)
+
 ## 🌐 Features
 
 - **User Authentication** - Secure signup, login, and session management
